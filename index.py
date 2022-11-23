@@ -114,3 +114,5 @@ for contato in contatos2:
     enviar_mensagem2(mensagem2)  
     enviar_midia2(midia2)      
     time.sleep(2)
+
+    # vitor
