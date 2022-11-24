@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/Lucasdfg07/Spotify_clone/blob/master/app/javascript/assets/images/logo.png)
+![Logo of the project](https://github.com/jframnp/BotZap/blob/main/img/SENAI_S%C3%A3o_Paulo_logo.png)
 
 
 ## SpotCode
