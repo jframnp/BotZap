@@ -1,29 +1,18 @@
 ![Logo of the project](https://github.com/jframnp/BotZap/blob/main/img/SENAI_S%C3%A3o_Paulo_logo.png)
 
 
-## SpotCode
-This application is an app clone of spotify made with Ruby (Back end) and ReactJS (Front end) to play musics, see artist's album, their music and made your day more musicable! Did on weekcode of OneBitCode.
+## BotZap
+Essa aplicação é um BOT de mensagens automatizadas feito com python(Back end) e Tkinter(Interface Grafica) para escolher para quem voce vai enviar, adicionar mensagens e imagens para sua mensagem automatizada
 
+## Tecnologias
 
-## Technology 
+Aqui estão as tecnologias usadas nesse projeto
 
-Here are the technologies used in this project.
+* python 3.11
 
-* Ruby version  2.5.1
-* Rails version 6.0.2
-* SQLite3
-
-## Services Used
+## Serviços usados
 
 * Github
-
-## Ruby Gems
-
-* Devise
-* Bootstrap
-* JQuery-rails
-* Serviceworker Rails
-
 
 ## Getting started
 
