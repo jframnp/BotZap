@@ -64,19 +64,15 @@ As principais caracteristicas do nosso app é:
 
 
 ## Links
-  - Repository: https://github.com/Lucasdfg07/Spotify_clone
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
-
-  ## Versioning
-
-  1.0.0.0
+  - Repositório: https://github.com/jframnp/BotZap.git
+    - Em caso de bugs, Nos chamem pelo email do nosso teachlead vitorperrone2005@gmail.com
 
 
-  ## Authors
+  ## Autores
 
-  * **Lucas Siqueira Fernandes** 
+  * **Fabiola Girotti** 
+  * **Isabela Correia**
+  * **João Francisco**
+  * **Vitor Perrone**
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+Obrigado por nos visitarem e Happy coding!
