@@ -16,12 +16,13 @@ Aqui estão as tecnologias usadas nesse projeto
 
 ## Getting started
 
-* Dependency
-  - Ruby  
-  - Rails
+* Dependencias
+  - Selenium  
+  - Tkinter
+  - WebDriver
 
 * To create and build your database accord of the project.
-  - rake db:create db:migrate
+  - git clone 
   
 * To create the previous files to use on the project, on the database.
   - rake db:seed
