@@ -54,7 +54,7 @@ Aqui estão as tecnologias usadas nesse projeto
 
 ## Links
   - Repositório: https://github.com/jframnp/BotZap.git
-    - Em caso de bugs, Nos chamem pelo email do nosso teachlead vitorperrone2005@gmail.com
+    - Em caso de bugs, chamem pelo email do nosso teachlead vitorperrone2005@gmail.com
 
 
   ## Autores
