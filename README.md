@@ -33,66 +33,27 @@ Aqui estão as tecnologias usadas nesse projeto
 
 ## Como Usar o Bot
 
-### 1 - When you access the project, you will see this initial page.
+### 1 - Quando o projeto estiver rodadndo, você vai digitar um ou mais contatos salvos no seu celular.
 
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
+![contato image](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/contato.jpeg)
 
-### 2 - You can Login in the system if you have an account registered.
+### 2 - Após isso, voce vai digitar uma ou mais mensagens para os contatos que você digitou.
 
-![Login](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png)
+![Mensagens](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/mensagem.jpeg)
 
-### 3 - Or simply create your account.
+### 3 - Você pode selecionar um arquivo de mídia na sua mensagem tambem!
 
-![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
+![midia_image1](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/midia.jpeg)
+![midia_image2](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/selecionar_midia.jpeg)
 
-### 4 - This is the Dashboard!
+### 5 - Por fim, envie sua mensagem.
 
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/14.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/13.png)
-
-### 5 - You can see more of an album clicking above it.
-
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/11.png)
-
-### 6 - You can also search a music, artist or an album accord of it's category!!
-
-![Search tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/10.png)
-
-### 7 - Clicking on the category, will return:
-
-  #### 7.1 - It's albums registered.
-
-![Search Albums tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
-
-  #### 7.2 - It's artists.
-
-![Search Artists tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/8.png)
-
-  #### 7.3 - It's musics.
-
-![Search Musics tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/7.png)
-
-### 8 - Clicking on the artist, you can see it's perfil like the image above.
-
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/6.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/5.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/4.png)
-
-### 9 - You can access the favorite's tab too like:
-  #### 9.1 - Favorite Albums.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/3.png)
-
-  #### 9.2 - Favorite Artists.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/2.png)
-
-  #### 9.3 - Favorite Musics.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/1.png)
+![Tela final](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/envie-sua-mensagem.jpeg)
 
 
-## Features
+## Características
 
-The main features of the application are:
+As principais caracteristicas do nosso app é:
  - Listen Songs.
  - Favorite Albums.
  - Favorite Artists.
