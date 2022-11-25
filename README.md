@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/jframnp/BotZap/blob/main/img/SENAI_S%C3%A3o_Paulo_logo.png)
+![Logo of the project](https://github.com/jframnp/BotZap/blob/main/img/SENAI_S%C3%A3o_Paulo_logo.png](https://github.com/jframnp/BotZap/blob/main/img/Logo.jpeg))
 
 
 ## BotZap
