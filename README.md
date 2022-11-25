@@ -43,7 +43,7 @@ Aqui estão as tecnologias usadas nesse projeto
 
 ### 3 - Você pode selecionar um arquivo de mídia na sua mensagem tambem!
 
-![midia_image1](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/midia.jpeg)
+![midia_image1](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/midias.jpeg)
 ![midia_image2](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/selecionar_midia.jpeg)
 
 ### 5 - Por fim, envie sua mensagem.
