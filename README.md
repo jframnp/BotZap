@@ -21,19 +21,17 @@ Aqui estão as tecnologias usadas nesse projeto
   - Tkinter
   - WebDriver
 
-* To create and build your database accord of the project.
-  - git clone 
+* Para criar o projeto acesse o git e digite este comando abaixo.
+  - git clone https://github.com/jframnp/BotZap.git
   
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
+* Para instalar as dependencias, digite no terminal os seguintes comandos.
+  - python3 -m pip install selenium
+  - python3 -m pip install webdriver
   
-* To install the gems.
-  - bundle install
-  
-* To run the project.
-  - rails s
+* Para rodar o projeto.
+  - python3 index.py
 
-## How to use
+## Como Usar o Bot
 
 ### 1 - When you access the project, you will see this initial page.
 
