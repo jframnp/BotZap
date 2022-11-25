@@ -2,13 +2,13 @@
 
 
 ## BotZap
-Essa aplicação é um BOT de mensagens automatizadas feito com python(Back end) e Tkinter(Interface Grafica) para escolher para quem voce vai enviar, adicionar mensagens e imagens para sua mensagem automatizada
+Essa aplicação é um BOT de mensagens automatizadas feito com python(Back end) e Tkinter(Interface Grafica) para escolher para quem você vai enviar, adicionar mensagens e imagens para sua mensagem automatizada
 
 ## Tecnologias
 
 Aqui estão as tecnologias usadas nesse projeto
 
-* python 3.11
+* python 3.10.8
 
 ## Serviços usados
 
