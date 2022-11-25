@@ -14,7 +14,7 @@ Aqui estão as tecnologias usadas nesse projeto
 
 * Github
 
-## Getting started
+## Iniciando
 
 * Dependencias
   - Selenium  
