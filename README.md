@@ -51,17 +51,6 @@ Aqui estão as tecnologias usadas nesse projeto
 ![Tela final](https://github.com/jframnp/BotZap/blob/main/img/readme_fotos/envie-sua-mensagem.jpeg)
 
 
-## Características
-
-As principais caracteristicas do nosso app é:
- - Listen Songs.
- - Favorite Albums.
- - Favorite Artists.
- - Favorite Musics.
- - See Album's perfil.
- - See Artist's perfil.
- - Search albums, musics and artists.
-
 
 ## Links
   - Repositório: https://github.com/jframnp/BotZap.git
